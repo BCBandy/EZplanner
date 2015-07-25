@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EZplanner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_device_fragment">Device_fragment</string>
+    <string name="title_activity_list_items">ListItems</string>
+    <string name="title_activity_date_picker">DatePicker</string>
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_fragment_start">FragmentStart</string>
+    <string name="title_activity_day_item">DayItemActivity</string>
+    <string name="title_activity_single_item_view">SingleItemView</string>
+    <string name="title_activity_text_editor">TextEditor</string>
+    <string name="title_activity_empty_list">EmptyList</string>
+
+</resources>
